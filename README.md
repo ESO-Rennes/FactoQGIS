@@ -4,6 +4,8 @@ FactoQGIS: a GUI tool based on an R script to perform Geometric Data Analysis in
 </br> https://perso.univ-rennes2.fr/florent.demoraes
 
 
+
+
 </br> ENGLISH------------------------------- 
 
 This algorithm implements a typological analysis based on quantitative data aggregated in spatial units. First, it performs a PCA (Principal Component Analysis) on N variables and second, a HAC (Hierarchical Ascending Classification also called Hierarchical Agglomerative Clustering) on the first factors. This algorithm is mainly based on the FactoMineR package developed by François Husson et al (Agrocampus Ouest, Rennes, France). It also makes secondary use of factoextra, stringr, openxlsx, R2HTML and corrplot packages. These packages must have been previously installed in R before launching the algorithm in QGIS. The output tables and plots are exported respectively to Excel and to png format and then are inserted into an html file that automatically pops up in a web browser at the end of the process. The Eigenvalue table and the variable coordinate table on the dimensions are also added to the table of contents in QGIS. Finally, the algorithm creates a new layer with the column indicating the cluster each spatial unit belongs to, so as to make it easy to map the typology.
