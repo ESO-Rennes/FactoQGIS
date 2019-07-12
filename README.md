@@ -5,6 +5,7 @@ FactoQGIS: a GUI tool based on an R script to perform Geometric Data Analysis in
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Florent-Demoraes/FactoQGIS/blob/master/FactoQGIS_Diagram.png"><img src="https://github.com/Florent-Demoraes/FactoQGIS/raw/master/FactoQGIS_Diagram.png" style="max-width:200%;"></a></p>
 
+A full description of the algorithm is available here : https://hal.archives-ouvertes.fr/hal-02181611
 
 </br> ENGLISH------------------------------- 
 
