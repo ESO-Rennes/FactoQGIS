@@ -1,8 +1,8 @@
 ##FactoQGIS=group
-##Working_Directory=Folder C:/Users/demoraes_f/Desktop/temp/Exo_QGIS
-##Input_Layer=Vector parispc_com_N_variables
+##Working_Directory=Folder
+##Input_Layer=Vector
 ##Spatial_Units_ID=Field Input_Layer
-##Active_Quantitative_Variables=Field numeric multiple Input_Layer P20ANS07;PNDIP07;TXCHOMA07;INTAO07;PART07;PCAD07;PINT07;PEMP07;POUV07;PRET07;PMONO07;PREFETR07;RFUCQ207
+##Active_Quantitative_Variables=Field numeric multiple Input_Layer
 ##Additional_Quantitative_Variables=optional Field numeric multiple Input_Layer
 ##Additional_Qualitative_Variables=optional Field string multiple Input_Layer
 ##Scale_Data=selection TRUE;FALSE
