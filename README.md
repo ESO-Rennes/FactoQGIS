@@ -22,10 +22,14 @@ A full description of the first release of the algorithm is available here : htt
 
 This algorithm implements in QGIS a typological analysis based on quantitative data aggregated in spatial units. First, it performs a PCA (Principal Component Analysis) on N variables and second, a HAC (Hierarchical Ascending Classification also called Hierarchical Agglomerative Clustering) on the first factors. This algorithm is mainly based on the FactoMineR package developed by François Husson et al (Agrocampus Ouest, Rennes, France). The output tables and plots are exported respectively to Excel and to png format and then are inserted into an html file that automatically pops up in a web browser at the end of the process. The Eigenvalue table and the variable coordinate table are also added to the table of contents in QGIS. Finally, the algorithm creates a new layer which contains an attribute field indicating the cluster each spatial unit belongs to, so as to make it easy to map the typology. For this purpose, a style file in QML format is created and can be used as default rendering (the colors of the clusters are the same as those on the 3D hierarchical tree).
 
+To use FactoQGIS, just download the NEW_FactoQGIS_English_Version.zip file, unzip and save it to C:\Users\...\AppData\Roaming\QGIS\QGIS3\profiles\default\processing\rscripts folder.
+
 
 </br> FRANCAIS------------------------------- 
 
 Cet algorithme met en œuvre dans QGIS une analyse typologique à partir de données quantitatives agrégées dans un découpage spatial. Il permet dans un premier temps d’exécuter une ACP (Analyse en Composante Principale) sur N variables et dans un deuxième temps d’appliquer une CAH (Classification Ascendante Hiérarchique) sur les premiers facteurs. Cet algorithme repose principalement sur le package FactoMineR développé par François Husson et al. (Agrocampus Ouest, Rennes, France). Les résultats produits (tableaux et graphiques) sont exportés respectivement au format Excel et au format png puis insérés dans un fichier html qui s’ouvre automatiquement dans un navigateur web à la fin du calcul. Le tableau des valeurs propres et le tableau des coordonnées des variables sur les axes sont également ajoutés à la liste des couches dans QGIS. Enfin, l’algorithme crée une nouvelle couche comportant une colonne indiquant l’appartenance des unités spatiales aux classes issues de la typologie, classes qui peuvent ensuite être directement cartographiées. A cet effet, un fichier de style au format QML est créé et peut être utilisé comme rendu par défaut (les couleurs des classes sont les mêmes que celles sur l'arbre hiérarchique 3D).
+
+Pour utiliser FactoQGIS, télécharger le fichier NOUVEAU_FactoQGIS_Version_Francaise.zip. Décompressez-le et sauvegardez-le dans le dossier C:\Users\...\AppData\Roaming\QGIS\QGIS3\profiles\default\processing\rscripts folder.
 
 
 </br> REFERENCES---------------
