@@ -16,7 +16,7 @@ FactoQGIS: a GUI tool based on an R script to perform Geometric Data Analysis in
 </br> R --> version 3.5.3 and newer
 </br> Nota: The deprecated version still works with QGIS 2.18 and with Processing R Provider version 1
 
-A full description of the algorithm is available here : https://hal.archives-ouvertes.fr/hal-02181611
+A full description of the first release of the algorithm is available here : https://hal.archives-ouvertes.fr/hal-02181611
 
 </br> ENGLISH------------------------------- 
 
