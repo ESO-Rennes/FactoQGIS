@@ -1,20 +1,28 @@
 # FactoQGIS
 FactoQGIS: a GUI tool based on an R script to perform Geometric Data Analysis in QGIS
-</br> By : Florent Demoraes, UMR ESO CNRS 6590, Université Rennes 2, France
+</br> Main Author: Florent Demoraes, UMR ESO CNRS 6590, Université Rennes 2, France
 </br> https://perso.univ-rennes2.fr/florent.demoraes
+</br> Contributors: SIGAT Master Degree students (Université Rennes 2, 2018-2019 and 2019-2020) 
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Florent-Demoraes/FactoQGIS/blob/master/FactoQGIS_Diagram.png"><img src="https://github.com/Florent-Demoraes/FactoQGIS/raw/master/FactoQGIS_Diagram.png" style="max-width:200%;"></a></p>
 
 A full description of the algorithm is available here : https://hal.archives-ouvertes.fr/hal-02181611
 
+FactoQGIS has been upgraded on December 2019. 
+</br> It now works with:
+</br> Processing R Provider : version 2.x and newer 
+</br> QGIS : version 3.4 and newer
+</br> R : version 3.5.3 and newer
+
+
 </br> ENGLISH------------------------------- 
 
-This algorithm implements in QGIS a typological analysis based on quantitative data aggregated in spatial units. First, it performs a PCA (Principal Component Analysis) on N variables and second, a HAC (Hierarchical Ascending Classification also called Hierarchical Agglomerative Clustering) on the first factors. This algorithm is mainly based on the FactoMineR package developed by François Husson et al (Agrocampus Ouest, Rennes, France). It also makes secondary use of factoextra, stringr, openxlsx, R2HTML and corrplot packages. These packages must have been previously installed in R before launching the algorithm in QGIS. The output tables and plots are exported respectively to Excel and to png format and then are inserted into an html file that automatically pops up in a web browser at the end of the process. The Eigenvalue table and the variable coordinate table on the dimensions are also added to the table of contents in QGIS. Finally, the algorithm creates a new layer with the column indicating the cluster each spatial unit belongs to, so as to make it easy to map the typology.
+This algorithm implements in QGIS a typological analysis based on quantitative data aggregated in spatial units. First, it performs a PCA (Principal Component Analysis) on N variables and second, a HAC (Hierarchical Ascending Classification also called Hierarchical Agglomerative Clustering) on the first factors. This algorithm is mainly based on the FactoMineR package developed by François Husson et al (Agrocampus Ouest, Rennes, France). The output tables and plots are exported respectively to Excel and to png format and then are inserted into an html file that automatically pops up in a web browser at the end of the process. The Eigenvalue table and the variable coordinate table are also added to the table of contents in QGIS. Finally, the algorithm creates a new layer which contains an attribute field indicating the cluster each spatial unit belongs to, so as to make it easy to map the typology. For this purpose, a style file in QML format is created and can be used as default rendering (the colors of the clusters are the same as those on the 3D hierarchical tree).
 
 
 </br> FRANCAIS------------------------------- 
 
-Cet algorithme met en œuvre dans QGIS une analyse typologique à partir de données quantitatives agrégées dans un découpage spatial. Il permet dans un premier temps d’exécuter une ACP (Analyse en Composante Principale) sur N variables et dans un deuxième temps d’appliquer une CAH (Classification Ascendante Hiérarchique) sur les premiers facteurs. Cet algorithme repose principalement sur le package FactoMineR développé par François Husson et al. (Agrocampus Ouest, Rennes, France). Il fait également appel de manière secondaire aux packages factoextra, stringr, openxlsx, R2HTML et corrplot. Ces packages doivent avoir été installés au préalable dans R avant de lancer l’algorithme dans QGIS. Les résultats produits (tableaux et graphiques) sont exportés respectivement au format Excel et au format png puis insérés dans un fichier html qui s’ouvre automatiquement dans un navigateur web à la fin du calcul. Le tableau des valeurs propres et le tableau des coordonnées des variables sur les axes sont également ajoutés à la liste des couches dans QGIS. Enfin, l’algorithme crée une nouvelle couche comportant la colonne indiquant l’appartenance des unités spatiales aux classes issues de la typologie, classes qui peuvent ensuite être directement cartographiées.
+Cet algorithme met en œuvre dans QGIS une analyse typologique à partir de données quantitatives agrégées dans un découpage spatial. Il permet dans un premier temps d’exécuter une ACP (Analyse en Composante Principale) sur N variables et dans un deuxième temps d’appliquer une CAH (Classification Ascendante Hiérarchique) sur les premiers facteurs. Cet algorithme repose principalement sur le package FactoMineR développé par François Husson et al. (Agrocampus Ouest, Rennes, France). Les résultats produits (tableaux et graphiques) sont exportés respectivement au format Excel et au format png puis insérés dans un fichier html qui s’ouvre automatiquement dans un navigateur web à la fin du calcul. Le tableau des valeurs propres et le tableau des coordonnées des variables sur les axes sont également ajoutés à la liste des couches dans QGIS. Enfin, l’algorithme crée une nouvelle couche comportant une colonne indiquant l’appartenance des unités spatiales aux classes issues de la typologie, classes qui peuvent ensuite être directement cartographiées. A cet effet, un fichier de style au format QML est créé et peut être utilisé comme rendu par défaut (les couleurs des classes sont les mêmes que celles sur l'arbre hiérarchique 3D).
 
 
 </br> REFERENCES---------------
