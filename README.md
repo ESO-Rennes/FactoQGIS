@@ -8,7 +8,7 @@ FactoQGIS: a GUI tool based on an R script to perform Geometric Data Analysis in
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Florent-Demoraes/FactoQGIS/blob/master/FactoQGIS_Diagram.png"><img src="https://github.com/Florent-Demoraes/FactoQGIS/raw/master/FactoQGIS_Diagram.png" style="max-width:200%;"></a></p>
 
-<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:black">!!NEW!! FactoQGIS has been upgraded on December 2019. <o:p></o:p></span></b></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:black">!!NEW!! FactoQGIS has been upgraded on December 2019 <o:p></o:p></span></b></p>
 
 </br> It now works with:
 </br> Processing R Provider --> version 2.x and newer 
@@ -29,7 +29,7 @@ To use FactoQGIS, just download the NEW_FactoQGIS_English_Version.zip file, unzi
 
 Cet algorithme met en œuvre dans QGIS une analyse typologique à partir de données quantitatives agrégées dans un découpage spatial. Il permet dans un premier temps d’exécuter une ACP (Analyse en Composante Principale) sur N variables et dans un deuxième temps d’appliquer une CAH (Classification Ascendante Hiérarchique) sur les premiers facteurs. Cet algorithme repose principalement sur le package FactoMineR développé par François Husson et al. (Agrocampus Ouest, Rennes, France). Les résultats produits (tableaux et graphiques) sont exportés respectivement au format Excel et au format png puis insérés dans un fichier html qui s’ouvre automatiquement dans un navigateur web à la fin du calcul. Le tableau des valeurs propres et le tableau des coordonnées des variables sur les axes sont également ajoutés à la liste des couches dans QGIS. Enfin, l’algorithme crée une nouvelle couche comportant une colonne indiquant l’appartenance des unités spatiales aux classes issues de la typologie, classes qui peuvent ensuite être directement cartographiées. A cet effet, un fichier de style au format QML est créé et peut être utilisé comme rendu par défaut (les couleurs des classes sont les mêmes que celles sur l'arbre hiérarchique 3D).
 
-Pour utiliser FactoQGIS, télécharger le fichier NOUVEAU_FactoQGIS_Version_Francaise.zip. Décompressez-le et sauvegardez-le dans le dossier C:\Users\...\AppData\Roaming\QGIS\QGIS3\profiles\default\processing\rscripts folder.
+Pour utiliser FactoQGIS, télécharger le fichier NOUVEAU_FactoQGIS_Version_Francaise.zip. Décompressez-le et sauvegardez-le dans le dossier C:\Users\...\AppData\Roaming\QGIS\QGIS3\profiles\default\processing\rscripts.
 
 
 </br> REFERENCES---------------
