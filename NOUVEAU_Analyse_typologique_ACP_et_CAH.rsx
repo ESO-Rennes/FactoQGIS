@@ -1,8 +1,8 @@
 ##FactoQGIS=group
-##Espace_de_travail=Folder C:/Users/demoraes_f/Desktop/temp/Exo_QGIS
-##Couche_en_entree=Vector parispc_com_N_variables
+##Espace_de_travail=Folder
+##Couche_en_entree=Vector
 ##Identifiant_des_unites_spatiales=Field Couche_en_entree
-##Variables_quantitatives_actives=Field numeric multiple Couche_en_entree P20ANS07;PNDIP07;TXCHOMA07;INTAO07;PART07;PCAD07;PINT07;PEMP07;POUV07;PRET07;PMONO07;PREFETR07;RFUCQ207
+##Variables_quantitatives_actives=Field numeric multiple Couche_en_entree
 ##Variables_quantitatives_illustratives=optional Field numeric multiple Couche_en_entree
 ##Variables_qualitatives_illustratives=optional Field string multiple Couche_en_entree
 ##Centrer_reduire_les_donnees=selection TRUE;FALSE
