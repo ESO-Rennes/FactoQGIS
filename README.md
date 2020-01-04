@@ -4,16 +4,17 @@ FactoQGIS: a GUI tool based on an R script to perform Geometric Data Analysis in
 </br> https://perso.univ-rennes2.fr/florent.demoraes
 </br> Contributors: SIGAT Master Degree students (Université Rennes 2, 2018-2019 and 2019-2020) 
 
+
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Florent-Demoraes/FactoQGIS/blob/master/FactoQGIS_Diagram.png"><img src="https://github.com/Florent-Demoraes/FactoQGIS/raw/master/FactoQGIS_Diagram.png" style="max-width:200%;"></a></p>
 
-A full description of the algorithm is available here : https://hal.archives-ouvertes.fr/hal-02181611
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:black">!!NEW!! FactoQGIS has been upgraded on December 2019. <o:p></o:p></span></b></p>
 
-FactoQGIS has been upgraded on December 2019. 
 </br> It now works with:
 </br> Processing R Provider : version 2.x and newer 
 </br> QGIS : version 3.4 and newer
 </br> R : version 3.5.3 and newer
 
+A full description of the algorithm is available here : https://hal.archives-ouvertes.fr/hal-02181611
 
 </br> ENGLISH------------------------------- 
 
