@@ -1,8 +1,8 @@
 # FactoQGIS
 FactoQGIS: a GUI tool based on an R script to perform Geometric Data Analysis in QGIS
-</br> Main Author: Florent Demoraes, UMR ESO CNRS 6590, Université Rennes 2, France
+</br> <strong>Main Author</strong>: Florent Demoraes, UMR ESO CNRS 6590, Université Rennes 2, France
 </br> https://perso.univ-rennes2.fr/florent.demoraes
-</br> Contributors: SIGAT Master Degree students (Université Rennes 2, 2018-2019 and 2019-2020) 
+</br> <strong>Contributors</strong>: SIGAT Master Degree students (Université Rennes 2, 2018-2019 and 2019-2020) 
 </br> https://www.sites.univ-rennes2.fr/mastersigat/
 
 
