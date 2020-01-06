@@ -14,7 +14,7 @@
 </br> Processing R Provider --> version 2.x and newer 
 </br> QGIS --> version 3.4 and newer
 </br> R --> version 3.5.3 and newer
-</br> Nota: The deprecated version still works with QGIS 2.18 and with Processing R Provider version 1
+</br> Nota: The <a href="https://github.com/ESO-Rennes/FactoQGIS/raw/master/DEPRECATED_FactoQGIS_Version.zip" target="_new" rel="noopener">deprecated version</a> still works with QGIS 2.18 and with Processing R Provider version 1
 
 A full description of the first release of the algorithm is available here : https://hal.archives-ouvertes.fr/hal-02181611
 
