@@ -22,7 +22,7 @@ A full description of the first release of the algorithm is available here : htt
 
 This algorithm implements in QGIS a typological analysis based on quantitative data aggregated in spatial units. First, it performs a PCA (Principal Component Analysis) on N variables and second, a HAC (Hierarchical Ascending Classification also called Hierarchical Agglomerative Clustering) on the first factors. This algorithm is mainly based on the FactoMineR package developed by François Husson et al (Agrocampus Ouest, Rennes, France). The output tables and plots are exported respectively to Excel and to png format and then are inserted into an html file that automatically pops up in a web browser at the end of the process. The Eigenvalue table and the variable coordinate table are also added to the table of contents in QGIS. Finally, the algorithm creates a new layer which contains an attribute field indicating the cluster each spatial unit belongs to, so as to make it easy to map the typology. For this purpose, a style file in QML format is created and can be used as default rendering (the colors of the clusters are the same as those on the 3D hierarchical tree).
 
-To use FactoQGIS, just download the NEW_FactoQGIS_English_Version.zip file, unzip and save it to C:\Users\...\AppData\Roaming\QGIS\QGIS3\profiles\default\processing\rscripts folder.
+To use FactoQGIS, just download the <a href="https://github.com/ESO-Rennes/FactoQGIS/blob/master/NEW_FactoQGIS_English_Version.zip" target="_blank" rel="noopener">NEW_FactoQGIS_English_Version.zip</a> file, unzip and save it to C:\Users\...\AppData\Roaming\QGIS\QGIS3\profiles\default\processing\rscripts folder.
 
 
 </br> FRANCAIS------------------------------- 
