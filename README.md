@@ -9,7 +9,7 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Florent-Demoraes/FactoQGIS/blob/master/FactoQGIS_Diagram.png"><img src="https://github.com/Florent-Demoraes/FactoQGIS/raw/master/FactoQGIS_Diagram.png" style="max-width:200%;"></a></p>
 
 <p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:black">!!NEW!! FactoQGIS has been upgraded on December 2019 <o:p></o:p></span></b></p>
-</br> It now works with:
+It now works with:
 </br> Processing R Provider --> version 2.x and newer 
 </br> QGIS --> version 3.4 and newer
 </br> R --> version 3.5.3 and newer
