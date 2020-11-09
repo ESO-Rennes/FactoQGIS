@@ -32,6 +32,8 @@ Pour utiliser FactoQGIS, télécharger le fichier <a href="https://github.com/ES
 
 Un poster de présentation élaboré par un groupe d'étudiants du Master 2 SIGAT (2019-2020) est disponible <a href="https://github.com/ESO-Rennes/FactoQGIS/blob/master/POSTER_FactoQGIS_FR.pdf" target="_new" rel="noopener"><strong>ICI</strong></a>. Un tutoriel vidéo réalisé par un deuxième groupe d'étudiants du Master 2 SIGAT (2019-2020) est également accessible <a href="https://bit.ly/3pg4SBO" target="_new"><strong>ICI</strong></a>. Le jeu de données d'exemple utilisé dans le tutoriel est téléchargeable <a href="https://github.com/ESO-Rennes/FactoQGIS/raw/master/JeuxDonneesExemple.zip" target="_new" rel="noopener"><strong>ICI</strong></a>.
 
+https://github.com/ESO-Rennes/FactoQGIS/raw/master/Tuto_Video_SIGAT_FactoQGIS_Diffusion.mp4
+
 
 </br> REFERENCES---------------
 
