@@ -30,7 +30,7 @@ Cet algorithme met en œuvre dans QGIS une analyse typologique à partir de donn
 
 Pour utiliser FactoQGIS, télécharger le fichier <a href="https://github.com/ESO-Rennes/FactoQGIS/raw/master/NOUVEAU_FactoQGIS_Version_Francaise.zip" target="_new" rel="noopener">NOUVEAU_FactoQGIS_Version_Francaise.zip</a>. Décompressez-le et sauvegardez-le dans le dossier C:\Users\...\AppData\Roaming\QGIS\QGIS3\profiles\default\processing\rscripts.
 
-Un poster de présentation élaboré par un groupe d'étudiants du Master 2 SIGAT (2019-2020) est disponible <a href="https://github.com/ESO-Rennes/FactoQGIS/blob/master/POSTER_FactoQGIS_FR.pdf" target="_new" rel="noopener"><strong>ICI</strong></a>. Un tutoriel vidéo réalisé par un deuxième groupe d'étudiants du Master 2 SIGAT (2019-2020) est également accessible <a href="https://bit.ly/3pg4SBO" target="_new" rel="noopener"><strong>ICI</strong></a>.
+Un poster de présentation élaboré par un groupe d'étudiants du Master 2 SIGAT (2019-2020) est disponible <a href="https://github.com/ESO-Rennes/FactoQGIS/blob/master/POSTER_FactoQGIS_FR.pdf" target="_new" rel="noopener"><strong>ICI</strong></a>. Un tutoriel vidéo réalisé par un deuxième groupe d'étudiants du Master 2 SIGAT (2019-2020) est également accessible <a href="https://bit.ly/3pg4SBO" target="_blank" rel="noopener"><strong>ICI</strong></a>.
 
 
 </br> REFERENCES---------------
