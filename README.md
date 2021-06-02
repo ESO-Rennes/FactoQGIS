@@ -11,7 +11,7 @@
 <p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:red">!!NEW!! FactoQGIS has been upgraded on June 2021 <o:p></o:p></span></b></p>
 </br> FactoQGIS now works with:
 </br> Processing R Provider --> version 2.x and newer 
-</br> QGIS --> version 3.16 and newer
+</br> QGIS --> version 3.4 and newer
 </br> R --> version 3.5.3 and newer
 </br> 
 </br> The output html file now includes new features
