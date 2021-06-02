@@ -8,14 +8,26 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Florent-Demoraes/FactoQGIS/blob/master/FactoQGIS_Diagram.png"><img src="https://github.com/Florent-Demoraes/FactoQGIS/raw/master/FactoQGIS_Diagram.png" style="max-width:200%;"></a></p>
 
-<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:black">!!NEW!! FactoQGIS has been upgraded on December 2019 <o:p></o:p></span></b></p>
-It now works with:
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:red">!!NEW!! FactoQGIS has been upgraded on June 2021 <o:p></o:p></span></b></p>
+</br> FactoQGIS now works with:
 </br> Processing R Provider --> version 2.x and newer 
-</br> QGIS --> version 3.4 and newer
+</br> QGIS --> version 3.16 and newer
 </br> R --> version 3.5.3 and newer
-</br> Nota: The <a href="https://github.com/ESO-Rennes/FactoQGIS/raw/master/DEPRECATED_FactoQGIS_Version.zip" target="_new" rel="noopener">deprecated version</a> still works with QGIS 2.18 and with Processing R Provider version 1
+</br> 
+</br> The output html file now includes new features
+</br>  --> A table with all the input parameters, a table with the number of spatial units in each cluster
+</br>  --> The x-axis of the bar plots which describe the clusters now adjust automatically
+</br>  --> A factor map showing the individuals differentiated according to the additional qualitative variable(s). This factor map only appears if at least one additional qualitative variable has been selected
+</br>  --> A map of the typology rendered with the same color palette as the one used on the 3D dendrogram
+</br> 
+</br> Reminder: 
+</br> --> FactoQGIS only works with polygons layers which contain data (counts, %, categories, etc.) in the table of attributes
+</br> --> Allowed input layer formats: shapefile, geopackage, geojson (etc.)
+</br> --> When using FactoQGIS for the first time, the required R packages are automatically installed and loaded
+</br> --> Known issues: NA or unknown values are not allowed in the table of attributes
 
-A full description of the first release of the algorithm is available here : https://hal.archives-ouvertes.fr/hal-02181611
+
+</br> A full description of the first release of the algorithm is available here : https://hal.archives-ouvertes.fr/hal-02181611
 
 </br> ENGLISH------------------------------- 
 
