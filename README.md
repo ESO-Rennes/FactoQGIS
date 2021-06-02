@@ -64,5 +64,6 @@ Un poster de présentation élaboré par un groupe d'étudiants du Master 2 SIGA
 3.	Documentation of the openxlsx package used in FactoQGIS. https://www.rdocumentation.org/packages/openxlsx/versions/4.1.0
 4.	Documentation of the R2HTML package used in FactoQGIS. https://www.rdocumentation.org/packages/R2HTML/versions/2.3.2
 5.	Documentation of the corrplot package used in FactoQGIS. https://www.rdocumentation.org/packages/corrplot/versions/0.84
+6.	Documentation on how to use R script in QGIS. https://docs.qgis.org/3.16/en/docs/training_manual/processing/r_intro.html
 
 
