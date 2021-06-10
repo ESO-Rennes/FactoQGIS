@@ -21,10 +21,10 @@
 </br>  --> A map of the typology rendered with the same color palette as the one used on the 3D dendrogram
 </br> 
 </br> Forewords
-</br> --> FactoQGIS only works with polygons layers which contain data (counts, %, ratios, categories, etc.) in the table of attributes
+</br> --> FactoQGIS works with polygons layers which contain data (counts, %, ratios, categories, etc.) in the table of attributes
 </br> --> Allowed input layer formats: shapefile, geopackage, geojson (etc.)
 </br> --> When using FactoQGIS for the first time, the required R packages are automatically installed and loaded
-</br> --> Known issues: NA or unknown values are not allowed in the table of attributes
+</br> --> Known issues: NA (missing data, unknown values) are not allowed in the table of attributes
 
 
 </br> A full description of the first release of the algorithm is available here : <strong>https://hal.archives-ouvertes.fr/hal-02181611</strong>
