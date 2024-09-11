@@ -1,15 +1,13 @@
 # FactoQGIS
-<strong>FactoQGIS</strong>: a GUI tool based on an R script to perform Geometric Data Analysis in QGIS
-</br> <strong>Main Author</strong>: Florent Demoraes, UMR ESO CNRS 6590, Université Rennes 2, France
-</br> https://perso.univ-rennes2.fr/florent.demoraes
-</br> <strong>Contributors</strong>: SIGAT Master Degree students (Université Rennes 2, 2018-2019 and 2019-2020) 
-</br> <a href="https://sites-formations.univ-rennes2.fr/mastersigat/" target="_new" rel="noopener">SIGAT Master degree website</a>
+<strong>FactoQGIS</strong>: a GUI tool based on an R script to perform Geometric Data Analysis in QGIS</br> 
+</br> <strong>Main Author</strong>: <a href="https://perso.univ-rennes2.fr/florent.demoraes" target="_new" rel="noopener">Florent Demoraes </a>, UMR ESO CNRS 6590, Université Rennes 2, France
+</br> 
+</br> <strong>Contributors</strong>: <a href="https://sites-formations.univ-rennes2.fr/mastersigat/" target="_new" rel="noopener">SIGAT Master Degree students</a> (Université Rennes 2, 2018-2019 and 2019-2020) 
 
-
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Florent-Demoraes/FactoQGIS/blob/master/FactoQGIS_Diagram.png"><img src="https://github.com/Florent-Demoraes/FactoQGIS/raw/master/FactoQGIS_Diagram.png" style="max-width:200%;"></a></p>
+</br> <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Florent-Demoraes/FactoQGIS/blob/master/FactoQGIS_Diagram.png"><img src="https://github.com/Florent-Demoraes/FactoQGIS/raw/master/FactoQGIS_Diagram.png" style="max-width:200%;"></a></p></br>
 
 <p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:red"> Current release of FactoQGIS: June 2021 <o:p></o:p></span></b></p>
-</br> FactoQGIS now works with:
+</br> FactoQGIS works with:
 </br> Processing R Provider --> version 2.x and newer 
 </br> QGIS --> version 3.4 and newer
 </br> R --> version 3.5.3 and newer
