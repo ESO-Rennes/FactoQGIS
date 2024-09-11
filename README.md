@@ -3,7 +3,7 @@
 </br> <strong>Main Author</strong>: Florent Demoraes, UMR ESO CNRS 6590, Université Rennes 2, France
 </br> https://perso.univ-rennes2.fr/florent.demoraes
 </br> <strong>Contributors</strong>: SIGAT Master Degree students (Université Rennes 2, 2018-2019 and 2019-2020) 
-</br> https://www.sites.univ-rennes2.fr/mastersigat/
+</br> <a href="https://sites-formations.univ-rennes2.fr/mastersigat/" target="_new" rel="noopener">SIGAT Master degree website</a>
 
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Florent-Demoraes/FactoQGIS/blob/master/FactoQGIS_Diagram.png"><img src="https://github.com/Florent-Demoraes/FactoQGIS/raw/master/FactoQGIS_Diagram.png" style="max-width:200%;"></a></p>
